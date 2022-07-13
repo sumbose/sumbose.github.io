@@ -5,7 +5,7 @@
 <!-- INTRODUCTION -->
 
 <!-- PROFILE PICTURE -->
-<img src="sumanta.jpg" height="140" width="140" alt="Sumanta" align = "left">
+<img src="sumanta.jpg" height="160" width="160" alt="Sumanta" align = "left">
 <!-- </img> -->
 
 <h2> Sumanta Basu </h2> 
