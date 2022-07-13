@@ -7,7 +7,7 @@
 
 <!-- PROFILE PICTURE -->
 <img src="sumanta.jpg" height="140" width="140" alt="Sumanta" align = "left">
-</img>
+<!-- </img> -->
 
 <h2> Sumanta Basu </h2> 
 Assistant Professor <br> 
@@ -55,7 +55,8 @@ Cornell University <br>
 Ithaca, NY 14853 <br>
 Phone: (607) 255-9813 <br>
 email: <a href="mailto:sumbose@cornell.edu"> sumbose@cornell.edu
-</p>
+<!-- </p>
 
 </body>
 </html>
+-->
