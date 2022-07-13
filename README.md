@@ -28,7 +28,7 @@ I am broadly interested in developing statistical machine learning methods for s
 </p>
 
 <p>
-My research is supported in part by a three-year grant from the National Science Foundation (NSF DMS-1812128), a four-year grant (1R01GM135926-01) from Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences  (DMS/NIGMS), and a two-year grant (1R21NS120227-01) from the National Institute of Health (NIH).
+My research is supported in part by a three-year grant from the National Science Foundation (NSF DMS-1812128), a four-year grant (R01GM135926) from Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences  (DMS/NIGMS), and a two-year grant (R21NS120227) from the National Institute of Health (NIH).
 </p>
 
 <p>
