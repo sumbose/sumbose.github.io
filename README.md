@@ -1,11 +1,5 @@
 <html>
 
-<!-- HEADER, to appear on the tab-->
-<head>
-<title> Sumanta Basu </title>
-</head>
-
-
 <body>
 <!-- INTRODUCTION -->
 
