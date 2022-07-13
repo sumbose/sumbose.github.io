@@ -1,16 +1,14 @@
 
 <html>
 
-<head>
-<title> Sumanta Basu </title>
-</head>
-
 
 <body>
 <!-- INTRODUCTION -->
 
 <!-- PROFILE PICTURE -->
 <img src="sumanta.jpg" height="140" width="140" alt="Sumanta" align = "left">
+</img>
+
 <h2> Sumanta Basu </h2> 
 Assistant Professor <br> 
 Shayegani Bruno Family Faculty Fellow <br>
@@ -18,7 +16,6 @@ Shayegani Bruno Family Faculty Fellow <br>
 <a href="https://bscb.cornell.edu/"> Department of Computational Biology </a> <br>
 <a href="https://www.cornell.edu/"> Cornell University </a> <br>
 Ithaca, NY <br> <br>
-</img>
 
 [ <a href="papers.html"> Research </a> | <a href="teaching.html"> Teaching </a> | <a href="advising.html"> Advising </a>]
 
