@@ -14,7 +14,7 @@ Shayegani Bruno Family Faculty Fellow <br>
 Ithaca, NY <br> <br>
 </img>
 
-[ <a href="http://faculty.bscb.cornell.edu/~basu/papers.html"> Research </a> | <a href="http://faculty.bscb.cornell.edu/~basu/teaching.html"> Teaching </a> | <a href="http://faculty.bscb.cornell.edu/~basu/advising.html"> Advising </a>]
+[ <a href="papers.html"> Research </a> | <a href="teaching.html"> Teaching </a> | <a href="advising.html"> Advising </a>]
 
 <br>
 <br>
