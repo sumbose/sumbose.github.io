@@ -14,7 +14,7 @@ Shayegani Bruno Family Faculty Fellow <br>
 <a href="http://stat.cornell.edu/"> Department of Statistics and Data Science </a> <br>
 <a href="https://bscb.cornell.edu/"> Department of Computational Biology </a> <br>
 <a href="https://www.cornell.edu/"> Cornell University </a> <br>
-Ithaca, NY <br> <br>
+<br> <br>
 
 [ <a href="papers.html"> Research </a> | <a href="teaching.html"> Teaching </a> | <a href="advising.html"> Advising </a>]
 
