@@ -1,5 +1,3 @@
-# sumbose.github.io
-
 <html>
 
 <!-- HEADER, to appear on the tab-->
