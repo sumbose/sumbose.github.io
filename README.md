@@ -50,7 +50,7 @@ Here is a link to my <a href="https://scholar.google.com/citations?user=VCuHXdMA
 <h2> Contact Information </h2>
 <p>
 Sumanta Basu <br>
-1192 Comstock Hall <br>
+1186 Comstock Hall <br>
 Cornell University <br>
 Ithaca, NY 14853 <br>
 Phone: (607) 255-9813 <br>
